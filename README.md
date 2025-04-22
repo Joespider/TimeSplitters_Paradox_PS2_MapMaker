@@ -17,7 +17,7 @@ This project is a way of creating an unofficial sequal to TimeSplitters Future P
     - Paradox [Virtual]
     - Future Perfect? [unknowm]
     - Resistance Is Futile [Bunker]
-    - Pseudo-Cortez [Lab]
+    - Pseudo-Cortez Assassination [Lab]
     - Locating Pseudo-Cortez [Bunker]
     - What Has Become of Me? [Horror]
     - The Uncovering [Horror]
@@ -35,5 +35,5 @@ This project is a way of creating an unofficial sequal to TimeSplitters Future P
     8) The Uncovering
     9) Time 2 Split
     10) Locating Pseudo-Cortez
-    11) Pseudo-Cortez
+    11) Pseudo-Cortez Assassination
     12) Paradox
